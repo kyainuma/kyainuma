@@ -5,10 +5,11 @@
 ## 個人開発
 
 [VS MAGIC](http://vs-magic.com/)
+
 [![Image from Gyazo](https://i.gyazo.com/429279230689b1b3cb7b2be1aab9ef70.png)](https://gyazo.com/429279230689b1b3cb7b2be1aab9ef70)
 
 [Portfolio](https://portfolio.yasunari-kainuma.com/)
 
-##　技術ブログ
+## 技術ブログ
 
 [技術ブログ](https://yasunari-kainuma.com/)
