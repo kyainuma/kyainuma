@@ -1,6 +1,6 @@
-[![](https://raw.githubusercontent.com/kyainuma/kyainuma/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kyainuma/kyainuma/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kyainuma/kyainuma/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyainuma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
