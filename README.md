@@ -8,7 +8,7 @@
 
 [![Image from Gyazo](https://i.gyazo.com/429279230689b1b3cb7b2be1aab9ef70.png)](https://gyazo.com/429279230689b1b3cb7b2be1aab9ef70)
 
-[Portfolio](https://portfolio.yasunari-kainuma.com/)
+<!-- [Portfolio](https://portfolio.yasunari-kainuma.com/) -->
 
 ## 技術ブログ
 
